@@ -12,7 +12,7 @@ This repository provides a PyTorch implementation of the GoogLeNet (Inception-v1
 ### **Usage**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Pytorch_GoogLeNet-InceptionNet_from_scratch.git
+   git clone https://github.com/Dikashmashree/Pytorch_GoogLeNet-InceptionNet_from_scratch.git
    ```
 2. **Install Dependencies:**
    Ensure you have PyTorch and its dependencies installed. You can install them using pip:
